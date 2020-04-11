@@ -1,0 +1,67 @@
+* {
+	margin :0;
+	padding: 0;
+}
+body{
+	padding:0 6.7%;
+}
+li {
+	list-style: none;
+}
+.username{
+	text-align: center;
+	margin:0;
+}
+.address{
+	text-align: center;
+	font-style: normal;
+}
+
+hr{
+	margin: 20px 0;
+}
+.box1{
+	display: flex;
+
+}
+div .l1 {
+	list-style:disc inside;
+}
+
+.box1 p{
+	text-align:  justify;
+}
+
+.title{
+	margin: 20px 0;
+	font-size: 35px;
+}
+
+h3{
+	text-indent: 24px;
+}
+
+.content {
+	text-indent:48px;
+	display:flex;
+	align-items:  center;
+	justify-content: space-between;
+}
+
+.box2 {
+	width:  533px;
+}
+.box2 li {
+	text-indent: 24px;
+	width: 100%;
+	display:flex;
+	align-items:  center;
+	justify-content: space-between;
+}
+
+.l2 {
+	text-indent: 24px;
+	display:flex;
+	align-items:  center;
+	justify-content: space-between;
+}

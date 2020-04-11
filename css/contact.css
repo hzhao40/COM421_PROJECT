@@ -1,0 +1,8 @@
+
+.username{
+	text-align: center;
+	height: 80px; /*div的高度*/
+	line-height:40px;
+	margin:0;
+	color:blue;
+}
